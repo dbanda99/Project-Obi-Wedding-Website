@@ -2,7 +2,7 @@
 // 1. Countdown Timer (sin cambios)
 // ================================
 (function () {
-    const targetDate = new Date('October 31, 2025 00:00:00').getTime();
+    const targetDate = new Date('January 10, 2026 09:30:00').getTime();
 
     function updateCountdown() {
         const now = new Date().getTime();
